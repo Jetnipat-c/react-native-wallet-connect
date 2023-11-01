@@ -1,7 +1,6 @@
-import "../globals";
-
 import "react-native-get-random-values";
 import "@ethersproject/shims";
+import "@walletconnect/react-native-compat";
 
 import FontAwesome from "@expo/vector-icons/FontAwesome";
 import {
